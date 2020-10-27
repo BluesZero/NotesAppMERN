@@ -1,9 +1,9 @@
 # NotesAppMERN
 Notes App - MERN Stack
 
-##Pre-requisitos 📋
+## Pre-requisitos 📋
 
 ```
-[GitHub Pages](https://pages.github.com/).
+Pagina [GitHub Pages](https://pages.github.com/).
 
 ```
