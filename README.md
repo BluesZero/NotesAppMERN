@@ -32,7 +32,7 @@ npm install
 ```
 Then we are going to install the dependences used in the project using the command npm install [dependence]
 ```
-"bootstrap"         - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+"bootstrap"         - Intuitive, and powerful front-end framework for faster and easier web development.
 "react-router-dom"  - DOM bindings for React Router. 
 "axios"             - Promise based HTTP client for the browser and node.js
 "react-datepicker"  - A simple and reusable Datepicker component for React.
